@@ -1,6 +1,5 @@
 from turtle import *
 
-
 title("smile face")
 bgcolor("yellow")
 speed(3)
